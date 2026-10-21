@@ -23,7 +23,7 @@
 আপনার টার্মাক্স (Termux) কিংবা লিনাক্স টার্মিনালে নিচের কমান্ডগুলো একে একে কপি করে পেস্ট করুন এবং টুলটি সফলভাবে রান করুন:
 
 ```bash
-git clone [https://github.com/kgf-cyber-123/CALL.git](https://github.com/kgf-cyber-123/CALL.git)
+git clone https://github.com/kgf-cyber-123/CALL.git
 cd CALL
 git pull
 chmod +x CALL_BOMBERS.py
